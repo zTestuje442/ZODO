@@ -1,0 +1,23 @@
+{
+  "name": "zodo",
+  "version": "1.0.0",
+  "description": "ZETO OCHRONA DANYCH OSOBOWYCH - testy automatyczne",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zTestuje442/ZODO.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/zTestuje442/ZODO/issues"
+  },
+  "homepage": "https://github.com/zTestuje442/ZODO#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.51.1",
+    "@types/node": "^22.13.13"
+  }
+}
